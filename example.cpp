@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+9#include<bits/stdc++.h>
 using namespace std;
 
 int main()
@@ -16,6 +16,6 @@ cin>>a>>b;
        	case 3: ans=a*b; break;
       }
 cout<<ans;
-
+cout<<"Code run successfully";
 return 0;
 }
